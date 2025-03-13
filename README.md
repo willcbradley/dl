@@ -1,3 +1,3 @@
 Fake smoking/cancer risk data. First attempt at training a linear regression model with gradient descent. 
 
-For background, see willcbradley.com/ai
+For background, see willcbradley.com/projects
