@@ -1,1 +1,1 @@
-Fake smoking/cancer risk data. First attempt at training a linear regression model with gradient descent. 
+Made up datapoints. First attempt at training a linear regression model with gradient descent. 
