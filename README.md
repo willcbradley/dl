@@ -1,1 +1,1 @@
-Made up datapoints. First attempt at training a linear regression model with gradient descent. 
+Teaching myself the foundations of deep learning.
